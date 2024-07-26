@@ -90,10 +90,6 @@ import {
       icon: tailwind,
     },
     {
-      name: "C",
-      icon: c_logo,
-    },
-    {
       name: "Java",
       icon: java_logo,
     },
@@ -101,26 +97,8 @@ import {
       name: "Python",
       icon: python_logo,
     },
-    {
-      name: "Next JS",
-      icon: nextjs,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "Github",
-      icon: github,
-    },
-    {
-      name: "Git",
-      icon: git,
-    },
-    {
-      name: "Firebase",
-      icon: firebase,
-    },
+   
+   
   ];
   
   const experiences = [
