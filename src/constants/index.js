@@ -93,11 +93,7 @@ import {
       name: "Java",
       icon: java_logo,
     },
-    {
-      name: "Python",
-      icon: python_logo,
-    },
-   
+ 
    
   ];
   
